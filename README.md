@@ -1,3 +1,7 @@
+# DAO Fund
+
+DAOFund, a platform that allows people to create and join decentralized autonomous organizations (DAOs) that fund and manage various projects and causes. A DAO is a self-governing entity that operates on the blockchain according to a set of rules and smart contracts, without the need for intermediaries or centralized authorities. 
+
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
